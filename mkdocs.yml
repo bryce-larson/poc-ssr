@@ -1,0 +1,8 @@
+site_name: "poc-ssr"
+site_description: "poc-ssr"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
